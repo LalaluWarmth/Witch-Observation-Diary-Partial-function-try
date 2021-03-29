@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\wengc\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\wengc\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_VerySimpleFSM.-1850683663.00" t="ExcludeRecursive" />
+    <e p="E:\u3d\VerySimpleFSM" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Scripts" t="Include">
+          <e p="FishFSM.cs" t="Include" />
+          <e p="FishStates" t="Include">
+            <e p="FishEat.cs" t="Include" />
+            <e p="FishNav.cs" t="Include" />
+            <e p="FIshWander.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SplinesPathSystem" t="Include">
+          <e p="Editor" t="Include">
+            <e p="BranchingSplineInspector.cs" t="Include" />
+            <e p="CustomArrayDrawer.cs" t="Include" />
+            <e p="EditorGUILayoutUtilities.cs" t="Include" />
+            <e p="InstantInspector.cs" t="Include" />
+            <e p="SplineAutoAlignInspector.cs" t="Include" />
+            <e p="SplineEditor.cs" t="Include" />
+            <e p="SplineEditorInspector.cs" t="Include" />
+            <e p="SplineEditorScene.cs" t="Include" />
+            <e p="SplineMeshInspector.cs" t="Include" />
+            <e p="SplineNodeInspector.cs" t="Include" />
+            <e p="SplinePrefab2Bin.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Spline" t="Include">
+              <e p="BranchingSpline.cs" t="Include" />
+              <e p="Curve.cs" t="Include" />
+              <e p="Spline.cs" t="Include" />
+              <e p="SplineAutoAlign.cs" t="Include" />
+              <e p="SplineDistanceFunctions.cs" t="Include" />
+              <e p="SplineGizmos.cs" t="Include" />
+              <e p="SplineGravitySimulator.cs" t="Include" />
+              <e p="SplineInterpolator.cs" t="Include" />
+              <e p="SplineLengthData.cs" t="Include" />
+              <e p="SplineMeshModifierExample.cs" t="Include" />
+              <e p="SplineSegment.cs" t="Include" />
+            </e>
+            <e p="SplineMesh" t="Include">
+              <e p="MeshModifiers" t="Include">
+                <e p="SplineCurveScaleModifier.cs" t="Include" />
+                <e p="SplineSineScaleModifier.cs" t="Include" />
+                <e p="SplineTwistModifier.cs" t="Include" />
+              </e>
+              <e p="SplineMesh.cs" t="Include" />
+              <e p="SplineMeshModifier.cs" t="Include" />
+            </e>
+            <e p="SplineNode" t="Include">
+              <e p="SplineNode.cs" t="Include" />
+            </e>
+            <e p="Utilities" t="Include">
+              <e p="QuaternionUtils.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="VerySimpleFSM.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
