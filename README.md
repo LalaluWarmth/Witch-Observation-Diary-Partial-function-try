@@ -7,3 +7,9 @@ The other called **VerySimpleFSM** is aimed to simulate fish swimming and eating
 ****
 Unity version is ***2019.4.14f1c1***.  
 ***Universal RP*** is required for **URPTest2019**, and ***DOTween(HOTween v2)*** is required for **VerySimpleFSM**. Of course, ***2D Sprite*** is necessary as well.
+
+https://user-images.githubusercontent.com/56426281/112827360-d06f2e80-90c0-11eb-94b7-98652f843c33.mp4  
+
+
+https://user-images.githubusercontent.com/56426281/112827462-f4cb0b00-90c0-11eb-90b2-cf3776f8b73e.mp4
+
