@@ -6,10 +6,9 @@ The one called **URPTest2019** is used to meet the **2D Bloom** requirement in t
 The other called **VerySimpleFSM** is aimed to simulate fish swimming and eating behavious which is designed in Level 2. With the idea of **FSM**, I can easily switch the fish's status. And thanks to **[linxinfa](https://github.com/linxinfa/Unity-FishSwimByPath)**'s dedication, the logic of **swimming by path** can soon be realized.  
 ****
 Unity version is ***2019.4.14f1c1***.  
-***Universal RP*** is required for **URPTest2019**, and ***DOTween(HOTween v2)*** is required for **VerySimpleFSM**. Of course, ***2D Sprite*** is necessary as well.
-
+***Universal RP*** is required for **URPTest2019**, and ***DOTween(HOTween v2)*** is required for **VerySimpleFSM**. Of course, ***2D Sprite*** is necessary as well.  
+****
+**2D Bloom:**  
 https://user-images.githubusercontent.com/56426281/112827360-d06f2e80-90c0-11eb-94b7-98652f843c33.mp4  
-
-
+**VerySimpleFSM:**  
 https://user-images.githubusercontent.com/56426281/112827462-f4cb0b00-90c0-11eb-90b2-cf3776f8b73e.mp4
-
